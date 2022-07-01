@@ -1,4 +1,3 @@
-
 #include "camera.h"
 #include "rtweekend.h"
 #include "color.h"
